@@ -1,4 +1,4 @@
-#Professional portfolio website
-##Updated skills
-##Education
-##Work experience
+# Professional portfolio website
+## Updated skills
+## Education
+## Work experience
