@@ -37,4 +37,4 @@ except KeyboardInterrupt:
     pass
 
 myServer.server_close()
-print(time.asctime(), "Server Stops - %s:%s" % (hostName, hostPort))```
+print(time.asctime(), "Server Stops - %s:%s" % (hostName, hostPort))
