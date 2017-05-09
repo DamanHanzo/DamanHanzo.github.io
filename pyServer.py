@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import socket
-from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
+from http.server import BaseHTTPRequestHandler, HTTPServer
 import time
 
 hostName = "0.0.0.0"
