@@ -1,5 +1,4 @@
 <?php
-
 	// Contact
 	$to = 'singhdamanpreet1234@gmail.com';
     $subject = "We've got a hit";
@@ -23,5 +22,4 @@
 			echo json_encode($result);
 		}
 	}
-
 ?>
