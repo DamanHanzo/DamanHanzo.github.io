@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 
 import socket
-from http.server import BaseHTTPRequestHandler, HTTPServer
+from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 import time
 
 hostName = "0.0.0.0"
-hostPort = 80
+hostPort = 4000
 
 class MyServer(BaseHTTPRequestHandler):
 
