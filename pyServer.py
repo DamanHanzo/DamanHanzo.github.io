@@ -4,7 +4,7 @@ import socket
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import time
 
-hostName = ""
+hostName = "0.0.0.0"
 hostPort = 80
 
 class MyServer(BaseHTTPRequestHandler):
